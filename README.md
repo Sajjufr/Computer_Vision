@@ -1,5 +1,3 @@
-I understand you need a much more detailed breakdown of the project. Here is an expanded, comprehensive version of the documentation and setup instructions, keeping the plain text format without the markdown or emojis.
-
 PROJECT DESCRIPTION
 
 This project is an advanced, multi-functional Computer Vision application built in Python. It operates by capturing a live video feed from the user's webcam and simultaneously processing two distinct computer vision pipelines: Drowsiness Detection and an Interactive Air Canvas with an embedded Math Solver.
